@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\bin\Debug\net8.0\BasicNetMentor.exe
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\bin\Debug\net8.0\BasicNetMentor.deps.json
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\bin\Debug\net8.0\BasicNetMentor.runtimeconfig.json
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\bin\Debug\net8.0\BasicNetMentor.dll
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\bin\Debug\net8.0\BasicNetMentor.pdb
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\BasicNetMentor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\BasicNetMentor.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\BasicNetMentor.AssemblyInfo.cs
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\BasicNetMentor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\BasicNetMentor.dll
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\refint\BasicNetMentor.dll
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\BasicNetMentor.pdb
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\BasicNetMentor.genruntimeconfig.cache
+C:\Users\Dell\Desktop\learning\Dotnet\BasicNetMentor\obj\Debug\net8.0\ref\BasicNetMentor.dll
